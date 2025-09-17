@@ -2,11 +2,11 @@ MadLibs Generator 🎭
 A fun Python program that creates hilarious stories from your words!
 
 Features ✨
-📖 Multiple Story Templates: Choose from various engaging story templates
-🎯 Smart Placeholder Detection: Automatically detects <placeholders> in stories
-🔄 Duplicate Handling: Asks for each unique word only once, even if used multiple times
-📁 File-Based Stories: Easily add new stories by creating simple text files
-🎨 Clean Formatting: Maintains story structure while replacing words
+- Multiple Story Templates: Choose from various engaging story templates
+- Smart Placeholder Detection: Automatically detects <placeholders> in stories
+- Duplicate Handling: Asks for each unique word only once, even if used multiple times
+- File-Based Stories: Easily add new stories by creating simple text files
+- Clean Formatting: Maintains story structure while replacing words
 
 Installation 🐍
 # Clone the repository
