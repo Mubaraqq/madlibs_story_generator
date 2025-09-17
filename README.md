@@ -17,16 +17,11 @@ cd madlibs-generator
 
 How to Play 🚀
 
-1. Create a story.txt file with <placeholders>:
-The <adjective> <noun> <verb> to the <place>.
-
-2. Run the program:
-python madlibs_generator.py
-
+1. Create a story.txt file with <placeholders>
+2. Run the program: python madlibs_generator.py
 3. Enter words when prompted:
 Enter a word for <adjective>: silly
 Enter a word for <noun>: elephant
 Enter a word for <verb>: danced
 Enter a word for <place>: supermarket
-
 4. Laugh at your custom story! 🎉
