@@ -1,0 +1,5 @@
+Once upon a time, there was a <{adjective}> <{noun}> who loved to <{verb}> 
+in the <{place}>. Every day, it would <{adverb}> <{verb}> while eating <{food}>.
+
+One day, the <{adjective}> <{noun}> decided to <{verb}> all the way to the 
+<{place}> to find more <{food}>. It was such a <{adjective}> adventure
