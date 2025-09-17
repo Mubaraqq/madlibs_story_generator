@@ -18,10 +18,6 @@ cd madlibs-generator
 How to Play 🚀
 
 - Create a story.txt file with <placeholders>
-- Run the program: python madlibs_generator.py
-- Enter words when prompted:
-Enter a word for <adjective>: silly
-Enter a word for <noun>: elephant
-Enter a word for <verb>: danced
-Enter a word for <place>: supermarket
-- Laugh at your custom story! 🎉
+- Run the program
+- Enter words when prompted
+- Laugh at your custom story! 
