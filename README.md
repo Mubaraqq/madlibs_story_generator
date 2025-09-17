@@ -1,5 +1,5 @@
-MadLibs Generator 🎭
-A fun Python program that creates hilarious stories from your words!
+MadLibs Generator
+# A fun Python program that creates hilarious stories from your words!
 
 Features ✨
 - Multiple Story Templates: Choose from various engaging story templates
