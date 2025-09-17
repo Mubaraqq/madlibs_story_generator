@@ -16,6 +16,7 @@ cd madlibs-generator
 # No dependencies needed! Just Python 3.x
 
 How to Play 🚀
+
 1. Create a story.txt file with <placeholders>:
 The <adjective> <noun> <verb> to the <place>.
 
